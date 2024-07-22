@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "axum",
+    "bnuuy",
+    "leptos",
+    "fileserv",
+    "stylesheet",
+    "bindgen",
+    "precompressed",
+    "oneshot"
+  ],
+  "rust-analyzer.cargo.features": ["ssr", "hydrate"]
+}
